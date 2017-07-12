@@ -1,18 +1,20 @@
-## Welcome to GitHub Pages
+## 从代码到实物
 
-You can use the [editor on GitHub](https://github.com/TerrellLucifer/light/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+从代码到实物课程网址https://swjtu-maker.github.io/codes2things/index.html
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 组长
+徐仕佶 2016112587
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 组员
+徐仕佶 2016112587
+张卫 2016112590
+王泽堃 2016113504
 
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
+
 ### Header 3
 
 - Bulleted
