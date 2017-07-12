@@ -37,6 +37,8 @@ Arduino 是一款便捷灵活、方便上手的开源电子原型平台，它包
 
 # Python
 我们觉得Python是一种未来程序语言的趋势和方向，简洁而强大，在老师介绍了后，我们在网上寻找了python的一些教学，并大致了解了爬虫的制作。
+
+
 https://www.youtube.com/watch?v=HBxCHonP6Ro&list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_
 
 
