@@ -29,6 +29,14 @@
 
 
 
-# python
+# Arduino
+
+Arduino 是一款便捷灵活、方便上手的开源电子原型平台，它包含硬件（各种型号的arduino板）和软件（arduino IDE).它可以与各种各样的电子器件连接来感知外界的环境，而又可以通过其他电子器件来反馈、影响环境。它们是通过板子上的微控制器Arduino的编程语言来编写程序，编译成二进制文件，烧录进微控制器进行控制。
+
+虽然Arduino没有ARM强大的功能但它的灵活性可以广泛的运用于我们生活中。实验中遇到的问题不能够快速的将各器件连接起来，以后多多学习掌握各方知识吧。
+
+# Python
+我们觉得Python是一种未来程序语言的趋势和方向，简洁而强大，在老师介绍了后，我们在网上寻找了python的一些教学，并大致了解了爬虫的制作。
+https://www.youtube.com/watch?v=HBxCHonP6Ro&list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_
 
 
